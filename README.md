@@ -4,7 +4,7 @@
 > *"Descubriendo un nuevo mundo."*
 
 <p align="center">
-  <img src="banner.jpg" alt="Luis y Jamie - Descubriendo un nuevo mundo" width="100%">
+  <img src="banner.jpg" alt="Luis y Jamie - Descubriendo un nuevo mundo" width="60%">
 </p>
 
 ---
