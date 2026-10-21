@@ -38,5 +38,5 @@ En este viaje nos acompañan principalmente estas tecnologías y herramientas:
 Si quieres saber más de lo que hacemos, darnos un consejo o simplemente pasar a saludar, ¡las puertas de este nuevo mundo están siempre abiertas!
 
 <p align="center">
- Desarrollado con ❤️ por <a href="https://github.com/tu-usuario">Luis & Jamie</a> 🪐
+ Desarrollado con ❤️ por <a href="https://github.com/luisfrancisco-tech">Luis & Jamie</a> 🪐
 </p>
